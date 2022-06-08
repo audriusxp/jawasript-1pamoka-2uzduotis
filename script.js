@@ -2,7 +2,6 @@ window.onload = function() {
     let plotis;
     let ilgis;
     let aukstis;
-
     let turis;
 
     ilgis = 15;
@@ -12,6 +11,6 @@ window.onload = function() {
     console.log(turis);
 }
 
-    function staciakampioTuris(ilgis,plotis,aukstis) {
+    function staciakampioTuris(a,b,c) {
         return a*b*c;
     }
